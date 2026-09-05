@@ -30,4 +30,5 @@ IN4080-Natural-Language-Processing-NLP/
 ├── Oblig2/
 ├── Oblig3/
 ├── Oblig4/
+├── Week_exercises/
 └── README.md
